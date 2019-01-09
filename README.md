@@ -9,9 +9,8 @@
 # Tanji Hashes - Latest Hashes
 This is the latest Hashes updated. Follow these steps to update your Hashes.
 
-1. Go on https://github.com/DevLooney/Tanji-Latest-Hashes
-2. You will see Hashes.ini ON TOP OF README.md. Right click it and click "Save linked Content As"
-3. Make sure it saves asConfiguration Settings
+1. Go on https://raw.githubusercontent.com/DevLooney/Tanji-Latest-Hashes/master/Hashes.ini
+2. Select All by doing CTRL + A, then Copy All by doing CTRL + C, then go to Hash. ini file(Should be selete as), and delete everything in there and Paste by doing CTRL + V
 4. Go to your Tanji folder, delete the Hashes.ini and paste the new downloaded one.
 5. That is how you update your Hashes.
 
