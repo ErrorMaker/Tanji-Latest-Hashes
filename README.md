@@ -9,7 +9,7 @@
 # Tanji Hashes - Latest Hashes
 This is the latest Hashes updated. Follow these steps to update your Hashes.
 
-1. Download this Hashes.ini file
+1. Download this Hashes.ini file (Click on Hashes, then click on raw then a page will open, right click somewhere and click save as and save it)
 2. Go to your Tanji folder, delete the Hashes.ini and paste the new downloaded one.
 3. That is how you update your Hashes.
 
